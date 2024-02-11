@@ -22,6 +22,6 @@ To utilize the Crash Analyzer project:
 4. Build and deploy Docker containers using provided configuration files.
 5. Access the frontend interface through the provided URL to commence monitoring crashes and associated metrics.
 
-
+## High Level Diagram
 ![image](https://github.com/snanadi/crash_detection/assets/159690874/eb8687ad-6824-42d5-8952-3d191c01f17f)
-High Level Diagram
+
